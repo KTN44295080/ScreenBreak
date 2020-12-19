@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 94ca6c13b78189f42b8a6ee545434f58
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - glassCrack: {fileID: 8300000, guid: 16e36bfe72806e44b8ced5e2295a20dd, type: 3}
+  - glassBreak: {fileID: 8300000, guid: d5abff9525b849047b5ecaec97dafa5b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
